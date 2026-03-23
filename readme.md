@@ -23,3 +23,5 @@ variables continues que catégorielles.
 
 Vous pouvez installer la version de développement via pip :
 pip install geostatlib
+
+## Auteur : Ikool 
