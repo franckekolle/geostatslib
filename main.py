@@ -5,7 +5,7 @@ vario_calc = geostat_library()
 import pandas as pd
 
 df = pd.read_csv(
-    r"D:\Documents\ekolleessoh\Travail\Projet_ANDRA\Interpolation_cokrigeage\Original_data\Data_RGT_For_Sis.csv",
+    r"D:\Documents\~~~~~\Travail\~~~~\~~~~~~\~~~~\~~~~.csv",
     sep=';',encoding="latin1")
 
 # Paramètres de tendance/résidus (activé ici pour l'exemple)
